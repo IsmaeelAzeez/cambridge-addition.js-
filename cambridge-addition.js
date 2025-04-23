@@ -1,4 +1,5 @@
-# cambridge-addition.js-
+// Start the game when script loads
+generateQuestion();
 let score = 0;
 let questionCount = 0;
 const totalQuestions = 50;
